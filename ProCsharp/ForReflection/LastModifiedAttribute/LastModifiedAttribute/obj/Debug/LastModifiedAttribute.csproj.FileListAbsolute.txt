@@ -1,0 +1,5 @@
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\LastModifiedAttribute\LastModifiedAttribute\bin\Debug\LastModifiedAttribute.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\LastModifiedAttribute\LastModifiedAttribute\bin\Debug\LastModifiedAttribute.pdb
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\LastModifiedAttribute\LastModifiedAttribute\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\LastModifiedAttribute\LastModifiedAttribute\obj\Debug\LastModifiedAttribute.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\LastModifiedAttribute\LastModifiedAttribute\obj\Debug\LastModifiedAttribute.pdb

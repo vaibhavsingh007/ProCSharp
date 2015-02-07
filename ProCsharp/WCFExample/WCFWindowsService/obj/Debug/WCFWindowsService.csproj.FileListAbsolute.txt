@@ -1,0 +1,10 @@
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\bin\Debug\WCFWindowsService.exe.config
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\bin\Debug\WCFWindowsService.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\bin\Debug\WCFWindowsService.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\bin\Debug\WCFExample.dll
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\bin\Debug\WCFExample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\obj\Debug\WCFWindowsService.csprojResolveAssemblyReference.cache
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\obj\Debug\WCFWindowsService.ProjectInstaller.resources
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\obj\Debug\WCFWindowsService.csproj.GenerateResource.Cache
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\obj\Debug\WCFWindowsService.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFWindowsService\obj\Debug\WCFWindowsService.pdb

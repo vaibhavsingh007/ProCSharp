@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDemo\Movies.Test\bin\Debug\Movies.Test.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-10-31" time="22:28:05">
+  <environment nunit-version="2.6.1.12217" clr-version="4.0.30319.269" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDemo\packages\NUnit.Runners.lite.2.6.1.20120813" machine-name="INITTO-LP-013" user="test" user-domain="INITTO-LP-013" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDemo\Movies.Test\bin\Debug\Movies.Test.dll" executed="True" result="Failure" success="False" time="9.936" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Movies" executed="True" result="Failure" success="False" time="9.923" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="9.923" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="MoviesControllerIndexTests" executed="True" result="Failure" success="False" time="9.920" asserts="0">
+                <results>
+                  <test-case name="Movies.Tests.MoviesControllerIndexTests.PutsMessageInViewBag" executed="True" result="Failure" success="False" time="9.908" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected: not null
+  But was:  null
+]]></message>
+                      <stack-trace><![CDATA[at CallSite.Target(Closure , CallSite , Type , Object )
+at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid2[T0,T1](CallSite site, T0 arg0, T1 arg1)
+at Movies.Tests.MoviesControllerIndexTests.PutsMessageInViewBag() in C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDemo\Movies.Test\MoviesControllerTests.cs:line 20
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

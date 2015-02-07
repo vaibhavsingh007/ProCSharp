@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMServer", "COMServer\COMServer.vcxproj", "{4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMServerPS", "COMServer\COMServerPS.vcxproj", "{17CE2890-E614-4D04-B7E6-11B572A6875D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7} = {4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7}.Debug|Win32.Build.0 = Debug|Win32
+		{4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7}.Release|Win32.ActiveCfg = Release|Win32
+		{4E5DF045-DFB8-445B-A8E9-0A4BE3250EF7}.Release|Win32.Build.0 = Release|Win32
+		{17CE2890-E614-4D04-B7E6-11B572A6875D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17CE2890-E614-4D04-B7E6-11B572A6875D}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
