@@ -1,5 +1,0 @@
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\bin\WebService1.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\bin\WebService1.pdb
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Release\ResolveAssemblyReference.cache
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Release\WebService1.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Release\WebService1.pdb

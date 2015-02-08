@@ -1,9 +1,0 @@
-﻿@model System.DateTime
-<!-- Use the helper to produce the input that we need to edit this datetime
-Now, anytime you use EditorFor in the application and pass DateTime, MVC is going
-to use this template -->
-
-@Html.TextBox("", ViewData.TemplateInfo.FormattedModelValue,
-                new { data_datepicker = true });
-
-<!-- used '_' as cannot use '-' but the runtime will produce a '-' nevertheless -->

@@ -1,5 +1,0 @@
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\SimpleServer\SimpleServer\bin\Debug\SimpleServer.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\SimpleServer\SimpleServer\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\SimpleServer\SimpleServer\obj\Debug\SimpleServer.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb

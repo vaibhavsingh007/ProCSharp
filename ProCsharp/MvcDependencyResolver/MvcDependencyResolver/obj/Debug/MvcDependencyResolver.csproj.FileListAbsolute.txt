@@ -1,7 +1,0 @@
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\bin\MvcDependencyResolver.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\bin\MvcDependencyResolver.pdb
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\bin\EntityFramework.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\bin\EntityFramework.xml
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\obj\Debug\MvcDependencyResolver.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\MvcDependencyResolver\MvcDependencyResolver\obj\Debug\MvcDependencyResolver.pdb

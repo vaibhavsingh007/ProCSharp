@@ -1,5 +1,0 @@
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\EnterpriseDemoTestClient\EnterpriseDemoTestClient\bin\Debug\EnterpriseDemoTestClient.exe
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\EnterpriseDemoTestClient\EnterpriseDemoTestClient\bin\Debug\EnterpriseDemoTestClient.pdb
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\EnterpriseDemoTestClient\EnterpriseDemoTestClient\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\EnterpriseDemoTestClient\EnterpriseDemoTestClient\obj\x86\Debug\EnterpriseDemoTestClient.exe
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\EnterpriseDemoTestClient\EnterpriseDemoTestClient\obj\x86\Debug\EnterpriseDemoTestClient.pdb

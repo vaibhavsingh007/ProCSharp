@@ -1,1 +1,0 @@
-C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFrameworkExample.exe.config

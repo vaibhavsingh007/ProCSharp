@@ -1,5 +1,0 @@
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\GreetingServer\bin\Debug\GreetingServer.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\GreetingServer\bin\Debug\GreetingServer.pdb
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\GreetingServer\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\GreetingServer\obj\Debug\GreetingServer.dll
-C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingServer\GreetingServer\obj\Debug\GreetingServer.pdb
