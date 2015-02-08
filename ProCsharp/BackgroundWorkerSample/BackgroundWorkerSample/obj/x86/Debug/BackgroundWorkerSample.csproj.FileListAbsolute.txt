@@ -1,0 +1,17 @@
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.Form1.resources
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.Properties.Resources.resources
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.exe
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.csprojResolveAssemblyReference.cache
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.Form1.resources
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.Properties.Resources.resources
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\BackgroundWorkerSample\BackgroundWorkerSample\obj\x86\Debug\BackgroundWorkerSample.csproj.GenerateResource.Cache

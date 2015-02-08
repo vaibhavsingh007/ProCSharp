@@ -1,0 +1,7 @@
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\bin\Debug\TestTheAttributeAssembly.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\bin\Debug\TestTheAttributeAssembly.pdb
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\bin\Debug\LastModifiedAttribute.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\bin\Debug\LastModifiedAttribute.pdb
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\obj\Debug\TestTheAttributeAssembly.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\ForReflection\TestTheAttributeAssembly\TestTheAttributeAssembly\obj\Debug\TestTheAttributeAssembly.pdb

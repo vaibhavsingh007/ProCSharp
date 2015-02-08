@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultvalue="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\test\\Documents\\Visual\ Studio\ 2010\\Projects\\ASPdotnet\\ProCsharp\\ProCsharp\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+  <parameter name="NORTHWNDConnectionString-Web.config Connection String" description="NORTHWNDConnectionString Connection String used in web.config by the application to access the database." defaultvalue="Data Source=.\SQLEXPRESS;AttachDbFilename=&quot;C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\NORTHWND.MDF&quot;;Integrated Security=True;Connect Timeout=30;User Instance=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\test\\Documents\\Visual\ Studio\ 2010\\Projects\\ASPdotnet\\ProCsharp\\ProCsharp\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NORTHWNDConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="FacilityConnection-Web.config Connection String" description="FacilityConnection Connection String used in web.config by the application to access the database." defaultvalue="Data Source=.\SQLEXPRESS;Initial Catalog=onlineExam;User Id=sa; Password=abc@1234;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\test\\Documents\\Visual\ Studio\ 2010\\Projects\\ASPdotnet\\ProCsharp\\ProCsharp\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FacilityConnection']/@connectionString" />
+  </parameter>
+</parameters>

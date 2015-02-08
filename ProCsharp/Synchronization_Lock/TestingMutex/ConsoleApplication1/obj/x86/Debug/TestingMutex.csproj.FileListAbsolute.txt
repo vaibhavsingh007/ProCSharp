@@ -1,0 +1,10 @@
+C:\Users\test\Documents\Visual Studio 2010\Projects\TestProj\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\test\Documents\Visual Studio 2010\Projects\TestProj\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\test\Documents\Visual Studio 2010\Projects\TestProj\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2010\Projects\TestProj\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\test\Documents\Visual Studio 2010\Projects\TestProj\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\Synchronization_Lock\TestingMutex\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\Synchronization_Lock\TestingMutex\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\Synchronization_Lock\TestingMutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\Synchronization_Lock\TestingMutex\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\Synchronization_Lock\TestingMutex\ConsoleApplication1\obj\x86\Debug\TestingMutex.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\bin\Debug\WCFExample.dll.config
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\bin\Debug\WCFExample.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\bin\Debug\WCFExample.pdb
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\obj\Debug\WCFExample.dll
+C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\obj\Debug\WCFExample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\bin\Debug\WCFExample.dll.config
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\bin\Debug\WCFExample.dll
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\bin\Debug\WCFExample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\obj\Debug\WCFExample.dll
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\obj\Debug\WCFExample.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\WCFExample\WCFExample\obj\Debug\WCFExample.csprojResolveAssemblyReference.cache

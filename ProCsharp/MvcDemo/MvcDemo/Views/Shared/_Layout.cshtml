@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <link href="../../Content/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css" />
+    @Content.Script("jquery-1.5.1.min.js", Url)
+    
+</head>
+<body>
+    <ul id="menu">
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("Movies", "Index", "Movies")</li>
+        <li>@Html.ActionLink("About", "About", "Home")</li>
+    </ul>
+    <p id="login">@Html.Partial("_LogOnPartial")</p>
+    <section id="main">
+    
+@RenderBody()
+ <p>Copyright Vaibhav Singh 2012. All Rights Reserved.</p>
+ </section>
+
+<!-- Including the scripts at the bottom of the page with a RenderSection() -->
+
+@Content.Script("modernizr-1.7.min.js", Url)
+@Content.Script("jquery-ui-1.8.11.min.js", Url)
+@Content.Script("jQuery.tmpl.min.js", Url)      <!--Included the jscript template library-->>
+@Content.Script("Movies.js", Url)
+@RenderSection("scripts", false)
+</body>
+</html>
+
+@* @helper Script(string scriptName)
+{
+    <script src="@Url.Content("../../Scripts/" + scriptName)" type="text/javascript"></script>
+}
+This is now moved to the app_code folder Content.cshtml class so it could be available to other views too 
+*@
+

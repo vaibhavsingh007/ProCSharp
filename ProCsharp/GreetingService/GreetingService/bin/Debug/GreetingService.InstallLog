@@ -1,0 +1,29 @@
+﻿Installing assembly 'C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.InstallLog
+   assemblypath = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe
+Installing service GreetingService...
+Creating EventLog source GreetingService in log Application...
+Rolling back assembly 'C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.InstallLog
+   assemblypath = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe
+Restoring event log to previous state for source GreetingService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.InstallLog
+   assemblypath = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe
+Installing service GreetingService...
+Service GreetingService has been successfully installed.
+Creating EventLog source GreetingService in log Application...
+Committing assembly 'C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.InstallLog
+   assemblypath = C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\GreetingService\GreetingService\bin\Debug\GreetingService.exe

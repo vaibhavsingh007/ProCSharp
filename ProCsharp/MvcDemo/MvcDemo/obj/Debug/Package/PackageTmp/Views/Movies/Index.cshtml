@@ -1,0 +1,101 @@
+﻿@model IEnumerable<MvcDemo.Models.MovieDB>
+@{
+    ViewBag.Title = "Index";
+}
+
+@Content.Script("jquery-1.5.1.min.js", Url)
+@Content.Script("jquery.unobtrusive-ajax.min.js", Url)
+@Content.Script("modernizr-1.7.min.js", Url)
+<h2>
+    Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Title
+        </th>
+        <th>
+            Director
+        </th>
+        <th>
+            Review
+        </th>
+        <th>
+            Date
+        </th>
+        <th>
+            Test_Property
+        </th>
+        <th>
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(item.Title, "Details", "Movies", new { id = item.ID }, null)
+                <!--@Html.DisplayFor(modelItem => item.Title)-->
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Review)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Test_Property)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) | @* @Html.ActionLink("Details", "Details", new { id=item.ID }) *@
+                @Html.ActionLink("Movie Review", "MovieReview", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+</table>
+@using (Html.BeginForm())
+{
+    @Html.DropDownList("movieTitle", new SelectList(ViewBag.Movies))
+    <input type="submit" value="Filter" />
+}
+<div id="movieReview">
+    <!-- Using Ajax renders HTML with data- attributes which can be used by javascripts
+    to hook into it and make it behave asynchronously -->
+    @Ajax.ActionLink("Click here to see the latest review",
+                    "MovieReview",
+                    "Movies",
+                    new AjaxOptions
+                    {
+                        UpdateTargetId = "movieReview",
+                        InsertionMode = InsertionMode.Replace,
+                        HttpMethod = "GET",
+                        LoadingElementId = "progress"
+                    })
+</div>
+
+<!-- Let us now put a search box for the movies using Ajax -->
+        
+@using (Ajax.BeginForm("Search", "Movies", new AjaxOptions
+{
+    HttpMethod = "GET",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "searchResults"
+}))
+{
+    <input type="text" name="q" data-autocomplete="@Url.Action("QuickSearch", "Movies")" />
+    <input type="submit" value="Search" />
+}
+
+<table id="searchResults">
+
+</table>
+
+<div id="progress">
+    <img src="../../Content/themes/base/images/TestImage.bmp" />
+</div>
+
