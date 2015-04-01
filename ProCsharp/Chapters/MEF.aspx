@@ -31,7 +31,7 @@
     answers. Using MEF, we will be able to add new operators without changing the 
     application code.<br />
     <br />
-    Source: <a href="http://msdn.microsoft.com/en-us/library/dd460648.aspx#Y2582">
+    Source: <a target="_blank" title="Opens in a new window." href="http://msdn.microsoft.com/en-us/library/dd460648.aspx#Y2582">
     http://msdn.microsoft.com/en-us/library/dd460648.aspx#Y2582</a><br />
     <br />
     <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 

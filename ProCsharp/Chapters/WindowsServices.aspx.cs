@@ -36,8 +36,8 @@ namespace ProCsharp.Chapters
                 byte[] sendBuffer = Encoding.UTF8.GetBytes("Hi! This is client 1");
                 stream.Write(sendBuffer, 0, sendBuffer.Length);
 
-                byte[] recieveBuffer = new byte[1024];
-                int recieved = stream.Read(recieveBuffer, 0, 1024);
+                byte[] recieveBuffer = new byte[client.ReceiveBufferSize];
+                int recieved = stream.Read(recieveBuffer, 0, client.ReceiveBufferSize);
                 TextBox1.Text = Encoding.UTF8.GetString(recieveBuffer).Trim('\0');
             }
             catch (SocketException ex)

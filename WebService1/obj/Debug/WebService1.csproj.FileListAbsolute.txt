@@ -3,3 +3,8 @@ C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebServi
 C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Debug\WebService1.dll
 C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Debug\WebService1.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\bin\WebService1.dll
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\bin\WebService1.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Debug\WebService1.csprojResolveAssemblyReference.cache
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Debug\WebService1.dll
+C:\users\Vaibhav\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\WebService1\obj\Debug\WebService1.pdb

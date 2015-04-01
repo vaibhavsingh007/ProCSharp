@@ -106,8 +106,8 @@
     <Content Include="Chapters\WebServices.aspx" />
     <Content Include="Chapters\WindowsServices.aspx" />
     <Content Include="Content\Assemblies.PNG" />
+    <Content Include="Content\ServiceInstaller.png" />
     <Content Include="Content\TracingClasses.png" />
-    <Content Include="Content\Untitled.png" />
     <Content Include="NORTHWND.MDF" />
     <Content Include="NORTHWND_log.ldf">
       <DependentUpon>NORTHWND.MDF</DependentUpon>
@@ -319,6 +319,7 @@
     <Compile Include="Chapters\WindowsServices.aspx.designer.cs">
       <DependentUpon>WindowsServices.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Constants.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

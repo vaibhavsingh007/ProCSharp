@@ -23,7 +23,7 @@ namespace ProCsharp
             // Gets the executing web page 
             Page page = HttpContext.Current.CurrentHandler as Page;
 
-            // Checks if the handler is a Page and that the script isn't allready on the Page 
+            // Checks if the handler is a Page and that the script isn't already on the Page 
             if (page != null && !page.ClientScript.IsClientScriptBlockRegistered("alert"))
             {
                 page.ClientScript.RegisterClientScriptBlock(typeof(Alert), "alert", script);

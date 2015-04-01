@@ -47,7 +47,7 @@
     <br />
         The class diagram of the Service Installer:<br />
         <br />
-        <img alt="" class="style2" src="file:///C:/Users/test/Desktop/Untitled.png" /><br />
+        <img alt="" class="style2" src="../Content/ServiceInstaller.png" /><br />
         <br />
         <br />
         After adding the installer classes to the project, you can use the 

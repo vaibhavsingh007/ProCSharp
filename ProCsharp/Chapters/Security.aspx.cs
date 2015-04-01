@@ -32,7 +32,7 @@ namespace ProCsharp.Chapters
         {
             string json;
             StringBuilder returnString = new StringBuilder();
-            using (System.IO.StreamReader jsonFile = new System.IO.StreamReader(@"C:\Users\test\Documents\Visual Studio 2010\Projects\ASPdotnet\ProCsharp\ProCsharp\App_Data\JsonData.txt"))
+            using (System.IO.StreamReader jsonFile = new System.IO.StreamReader(Constants.AppDataPath + @"\JsonData.txt"))
             {
                 json = jsonFile.ReadToEnd();
             }

@@ -45,6 +45,8 @@ namespace GreetingServer
         {
             try
             {
+                int receiveStatus = 0;
+                byte[] buffer = null;
                 IPAddress ip = IPAddress.Parse("127.0.0.1");
                 listener = new TcpListener(ip, port);
                 listener.Start();
@@ -53,14 +55,18 @@ namespace GreetingServer
                 {
                     Socket clientSocket = listener.AcceptSocket();
 
-                    string message = greeting;
+                    buffer = new byte[clientSocket.ReceiveBufferSize];
+
+                    receiveStatus = clientSocket.Receive(buffer);
+
+                    string message = "RECEIVED: " + Encoding.UTF8.GetString(buffer);
 
                     // Prepare to send the message in unicode as follows:
-                    UnicodeEncoding encoder = new UnicodeEncoding();
-                    byte[] buffer = encoder.GetBytes(message);
+                    UTF8Encoding encoder = new UTF8Encoding();
+                    buffer = encoder.GetBytes(message);
 
                     clientSocket.Send(buffer, buffer.Length, 0);
-                    clientSocket.Close();
+                    //clientSocket.Close();
                 }
             }
             catch (SocketException ex)
